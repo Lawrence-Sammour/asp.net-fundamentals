@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MNTnmvcXZzpX1OZqGOwRL4mA2Z3rfQQsSXGvs6BrSBWf+6NwLSe5wLFANpERyPErmFUGSp4XZgjBI2+YfMO+7g==",
+  "dgSpecHash": "nnk7pTCuLA8nwNvbqBbrGAqt1qwfkEfaj2IL/LMuJLRqWEyA/RkfFxF+DrpTFVP6O19jid7DD4N3boTyXJJkXg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Larry\\Documents\\vscode-solution\\OdeToFood.Core\\OdeToFood.Core.csproj",
+  "projectFilePath": "C:\\Users\\Larry\\Documents\\vs-solution\\OdeToFood.Core\\OdeToFood.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

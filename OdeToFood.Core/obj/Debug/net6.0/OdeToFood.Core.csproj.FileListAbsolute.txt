@@ -10,3 +10,15 @@ C:\Users\Larry\Documents\vscode-solution\OdeToFood.Core\obj\Debug\net6.0\OdeToFo
 C:\Users\Larry\Documents\vscode-solution\OdeToFood.Core\obj\Debug\net6.0\refint\OdeToFood.Core.dll
 C:\Users\Larry\Documents\vscode-solution\OdeToFood.Core\obj\Debug\net6.0\OdeToFood.Core.pdb
 C:\Users\Larry\Documents\vscode-solution\OdeToFood.Core\obj\Debug\net6.0\ref\OdeToFood.Core.dll
+C:\Users\Larry\Documents\vs-solution\OdeToFood.Core\bin\Debug\net6.0\OdeToFood.Core.deps.json
+C:\Users\Larry\Documents\vs-solution\OdeToFood.Core\bin\Debug\net6.0\OdeToFood.Core.dll
+C:\Users\Larry\Documents\vs-solution\OdeToFood.Core\bin\Debug\net6.0\OdeToFood.Core.pdb
+C:\Users\Larry\Documents\vs-solution\OdeToFood.Core\obj\Debug\net6.0\OdeToFood.Core.csproj.AssemblyReference.cache
+C:\Users\Larry\Documents\vs-solution\OdeToFood.Core\obj\Debug\net6.0\OdeToFood.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Larry\Documents\vs-solution\OdeToFood.Core\obj\Debug\net6.0\OdeToFood.Core.AssemblyInfoInputs.cache
+C:\Users\Larry\Documents\vs-solution\OdeToFood.Core\obj\Debug\net6.0\OdeToFood.Core.AssemblyInfo.cs
+C:\Users\Larry\Documents\vs-solution\OdeToFood.Core\obj\Debug\net6.0\OdeToFood.Core.csproj.CoreCompileInputs.cache
+C:\Users\Larry\Documents\vs-solution\OdeToFood.Core\obj\Debug\net6.0\OdeToFood.Core.dll
+C:\Users\Larry\Documents\vs-solution\OdeToFood.Core\obj\Debug\net6.0\refint\OdeToFood.Core.dll
+C:\Users\Larry\Documents\vs-solution\OdeToFood.Core\obj\Debug\net6.0\OdeToFood.Core.pdb
+C:\Users\Larry\Documents\vs-solution\OdeToFood.Core\obj\Debug\net6.0\ref\OdeToFood.Core.dll

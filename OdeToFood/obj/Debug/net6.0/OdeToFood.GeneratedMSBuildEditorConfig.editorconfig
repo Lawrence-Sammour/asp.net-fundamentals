@@ -9,53 +9,65 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = OdeToFood
 build_property.RootNamespace = OdeToFood
-build_property.ProjectDir = C:\Users\Larry\Documents\vscode-solution\OdeToFood\
+build_property.ProjectDir = C:\Users\Larry\Documents\vs-solution\OdeToFood\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Larry\Documents\vscode-solution\OdeToFood
+build_property.MSBuildProjectDirectory = C:\Users\Larry\Documents\vs-solution\OdeToFood
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Larry/Documents/vscode-solution/OdeToFood/Pages/Error.cshtml]
+[C:/Users/Larry/Documents/vs-solution/OdeToFood/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Larry/Documents/vscode-solution/OdeToFood/Pages/Index.cshtml]
+[C:/Users/Larry/Documents/vs-solution/OdeToFood/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Larry/Documents/vscode-solution/OdeToFood/Pages/Privacy.cshtml]
+[C:/Users/Larry/Documents/vs-solution/OdeToFood/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Larry/Documents/vscode-solution/OdeToFood/Pages/Restaurants/Detail.cshtml]
+[C:/Users/Larry/Documents/vs-solution/OdeToFood/Pages/Restaurants/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVzdGF1cmFudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Larry/Documents/vs-solution/OdeToFood/Pages/Restaurants/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVzdGF1cmFudHNcRGV0YWlsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Larry/Documents/vscode-solution/OdeToFood/Pages/Restaurants/Edit.cshtml]
+[C:/Users/Larry/Documents/vs-solution/OdeToFood/Pages/Restaurants/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVzdGF1cmFudHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Larry/Documents/vscode-solution/OdeToFood/Pages/Restaurants/List.cshtml]
+[C:/Users/Larry/Documents/vs-solution/OdeToFood/Pages/Restaurants/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVzdGF1cmFudHNcTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Larry/Documents/vscode-solution/OdeToFood/Pages/Restaurants/Not_Found.cshtml]
+[C:/Users/Larry/Documents/vs-solution/OdeToFood/Pages/Restaurants/Not_Found.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVzdGF1cmFudHNcTm90X0ZvdW5kLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Larry/Documents/vscode-solution/OdeToFood/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Larry/Documents/vs-solution/OdeToFood/Pages/Restaurants/_Summary.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVzdGF1cmFudHNcX1N1bW1hcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Larry/Documents/vs-solution/OdeToFood/Pages/Shared/Components/RestaurantCount/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXENvbXBvbmVudHNcUmVzdGF1cmFudENvdW50XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Larry/Documents/vs-solution/OdeToFood/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Larry/Documents/vscode-solution/OdeToFood/Pages/_ViewImports.cshtml]
+[C:/Users/Larry/Documents/vs-solution/OdeToFood/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Larry/Documents/vscode-solution/OdeToFood/Pages/_ViewStart.cshtml]
+[C:/Users/Larry/Documents/vs-solution/OdeToFood/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Larry/Documents/vscode-solution/OdeToFood/Pages/Shared/_Layout.cshtml]
+[C:/Users/Larry/Documents/vs-solution/OdeToFood/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-mur7zqcith

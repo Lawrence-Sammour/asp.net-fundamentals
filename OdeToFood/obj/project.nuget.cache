@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h/snxDT6quoL3Tu5kTBslLjJ6RCpaYvu4xpkRnSqaVXJiyXG6qr76mLU237p952Rone45zsmXM8R4TQqGWYVzg==",
+  "dgSpecHash": "+zIRgWP2HHozgzMckQaCkNJK0tGih8LXVzujtPhPegJ9OlyePo45bwiY5jSqbA1ZMMSAqc1E+WwV2sdgdTKlCA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Larry\\Documents\\vscode-solution\\OdeToFood\\OdeToFood.csproj",
+  "projectFilePath": "C:\\Users\\Larry\\Documents\\vs-solution\\OdeToFood\\OdeToFood.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Larry\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Larry\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

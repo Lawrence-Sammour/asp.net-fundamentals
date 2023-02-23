@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Larry\\Documents\\vscode-solution\\OdeToFood.Core\\OdeToFood.Core.csproj",
+      "projectUniqueName": "C:\\Users\\Larry\\Documents\\vs-solution\\OdeToFood.Core\\OdeToFood.Core.csproj",
       "projectName": "OdeToFood.Core",
-      "projectPath": "C:\\Users\\Larry\\Documents\\vscode-solution\\OdeToFood.Core\\OdeToFood.Core.csproj",
+      "projectPath": "C:\\Users\\Larry\\Documents\\vs-solution\\OdeToFood.Core\\OdeToFood.Core.csproj",
       "packagesPath": "C:\\Users\\Larry\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Larry\\Documents\\vscode-solution\\OdeToFood.Core\\obj\\",
+      "outputPath": "C:\\Users\\Larry\\Documents\\vs-solution\\OdeToFood.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Larry\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = OdeTooFood.Data
-build_property.ProjectDir = C:\Users\Larry\Documents\vscode-solution\OdeToFood.Data\
+build_property.ProjectDir = C:\Users\Larry\Documents\vs-solution\OdeToFood.Data\
